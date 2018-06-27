@@ -10,5 +10,5 @@ def square_array(array)
   # array.map { |n| n * n }
   
   #collect way
-  
+  array.collect { |x| x * x }  
 end
