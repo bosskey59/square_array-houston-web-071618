@@ -6,6 +6,9 @@ def square_array(array)
     new_array.push(blah)
   end
   return new_array
-  
+  #map way
   # array.map { |n| n * n }
+  
+  #collect way
+  
 end
