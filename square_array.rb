@@ -6,5 +6,6 @@ def square_array(array)
     new_array.push(blah)
   end
   return new_array
+  
   # array.map { |n| n * n }
 end
